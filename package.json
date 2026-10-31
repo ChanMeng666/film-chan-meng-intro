@@ -1,0 +1,16 @@
+{
+  "name": "film-chan-meng-intro",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A 52-second intro film for Chan Meng, written as code.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "samples": "bash scripts/fetch_samples.sh",
+    "score": "python audio/score.py",
+    "render": "node render.mjs"
+  },
+  "dependencies": {
+    "puppeteer-core": "^25.16.0"
+  }
+}

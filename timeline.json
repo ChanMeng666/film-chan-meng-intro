@@ -1,0 +1,29 @@
+{
+  "bpm": 128,
+  "fps": 30,
+  "sections": [
+    { "id": "hold",     "hud": "HOLD",        "beats": 8 },
+    { "id": "name",     "hud": "NAME",        "beats": 4 },
+    { "id": "story",    "hud": "STORY",       "beats": 16 },
+    { "id": "outline",  "hud": "OUTLINE",     "beats": 8 },
+    { "id": "tunnel",   "hud": "TUNNEL",      "beats": 8 },
+    { "id": "mosaic",   "hud": "CELLS",       "beats": 8 },
+    { "id": "storm",    "hud": "STORM",       "beats": 8 },
+    { "id": "roles",    "hud": "BREAKDOWN",   "beats": 12 },
+    { "id": "retry",    "hud": "SILENCE",     "beats": 4 },
+    { "id": "tunnel2",  "hud": "TUNNEL//DITHER", "beats": 8 },
+    { "id": "mosaic2",  "hud": "CELLS//DITHER",  "beats": 8 },
+    { "id": "radial",   "hud": "RADIAL",      "beats": 8 },
+    { "id": "close",    "hud": "CLOSE",       "beats": 12 }
+  ],
+  "copy": {
+    "_source": "data/brand.yaml in ChanMeng666: signatures.readmeArt.story and banners.cover. Change it there first.",
+    "name": ["Chan", "Meng"],
+    "story": ["I started with maps.", "At thirty, I began again.", "I learned to build with AI.", "Now I build AI agents."],
+    "roles": ["Founder of ArchCanvas.", "CTO at FemTech Weekend.", "Based in Auckland."],
+    "outline": "Subtraction",
+    "storm": "addition",
+    "motto": ["Subtraction for life,", "addition for thought"],
+    "sign": "CHAN MENG  ·  CHANMENG.ORG"
+  }
+}
