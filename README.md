@@ -10,6 +10,12 @@ Every frame is a pure function of its index, drawn from her brand tokens and cut
 
 <!-- FILM: chan-meng-motion-intro -->
 
+
+
+https://github.com/user-attachments/assets/826d5dbe-96f9-476d-aa26-1a98b8025acb
+
+
+
 <div align="center">
 
 **Watch on YouTube:** [youtu.be/hT0eKa8tYOo](https://youtu.be/hT0eKa8tYOo) · **Download:** [release v1.0.0](https://github.com/ChanMeng666/film-chan-meng-intro/releases/tag/v1.0.0) · **More films:** [chanmeng.org/films](https://chanmeng.org/films) · [Credits](CREDITS.md)
