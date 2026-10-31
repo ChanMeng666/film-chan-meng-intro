@@ -8,9 +8,7 @@ Every frame is a pure function of its index, drawn from her brand tokens and cut
 
 </div>
 
-<p align="center">
-  <a href="https://youtu.be/hT0eKa8tYOo"><img src="docs/poster.jpg" alt="The film's last frame: the motto Subtraction for life, addition for thought, with an orange pixel as the full stop beside a dither field" width="800"></a>
-</p>
+<!-- FILM: chan-meng-motion-intro -->
 
 <div align="center">
 
