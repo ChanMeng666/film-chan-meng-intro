@@ -8,15 +8,13 @@ Every frame is a pure function of its index, drawn from her brand tokens and cut
 
 </div>
 
-<!-- FILM: chan-meng-motion-intro -->
-
 <p align="center">
-  <a href="https://github.com/ChanMeng666/film-chan-meng-intro/releases/tag/v1.0.0"><img src="docs/poster.jpg" alt="The film's last frame: the motto Subtraction for life, addition for thought, with an orange pixel as the full stop beside a dither field" width="800"></a>
+  <a href="https://youtu.be/hT0eKa8tYOo"><img src="docs/poster.jpg" alt="The film's last frame: the motto Subtraction for life, addition for thought, with an orange pixel as the full stop beside a dither field" width="800"></a>
 </p>
 
 <div align="center">
 
-**Download:** [release v1.0.0](https://github.com/ChanMeng666/film-chan-meng-intro/releases/tag/v1.0.0) · **Her work:** [chanmeng.org](https://chanmeng.org/) · [Credits](CREDITS.md)
+**Watch on YouTube:** [youtu.be/hT0eKa8tYOo](https://youtu.be/hT0eKa8tYOo) · **Download:** [release v1.0.0](https://github.com/ChanMeng666/film-chan-meng-intro/releases/tag/v1.0.0) · **More films:** [chanmeng.org/films](https://chanmeng.org/films) · [Credits](CREDITS.md)
 
 </div>
 
